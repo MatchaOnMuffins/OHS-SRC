@@ -9,6 +9,5 @@ chardet == 3.0.2
 aiohttp == 3.7.0
 google-auth == 1.21.0
 rsa == 4.0.0
-yarl == 1.5.1
 idna == 2.8
 requests == 2.21.0
