@@ -1,0 +1,14 @@
+# pyrebase==3.1.0
+urllib3
+-e git+https://github.com/heston/Pyrebase.git@a77bd6f6def656b1dcd77d938fac2707f3c4ba61#egg=Pyrebase
+pyasn1-modules == 0.2.8
+multidict == 6.0.0
+PySimpleGUI~=4.60.1
+cachetools ==4.0.0
+chardet == 3.0.2
+aiohttp == 3.7.0
+google-auth == 1.21.0
+rsa == 4.0.0
+yarl == 1.5.1
+idna == 2.8
+requests == 2.21.0
