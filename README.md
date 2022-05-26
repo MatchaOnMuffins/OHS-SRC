@@ -23,6 +23,7 @@ pip install -r requirements.txt
 # Configuration
 Place files `config.json` and `ohs-src-firebase-admin.json` into `auth/`
 
+
 # Execution
 To run program, execute
 ```bash
