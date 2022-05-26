@@ -98,7 +98,7 @@ auth/config.json
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
-
+venv
 # SageMath parsed files
 *.sage.py
 
