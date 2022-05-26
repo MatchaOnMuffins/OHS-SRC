@@ -1,8 +1,5 @@
 # OHS-SRC
-# Deployment
-## Important
-* Auth files `config.json` and `ohs-src-firebase-admin.json` need to be placed in `auth/`
-
+# Installation
 
 ## MacOS
 ```bash
@@ -12,7 +9,6 @@ python3 -m venv ./venv/
 source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-python3 main.py
 ```
 
 ## Windows
@@ -23,5 +19,20 @@ python -m venv .\venv\
 .\venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
+```
+# Configuration
+Place files `config.json` and `ohs-src-firebase-admin.json` into `auth/`
+
+# Execution
+To run program, execute
+```bash
 python main.py
 ```
+
+# Cleaning Up
+To deactivate venv, run
+```bash
+deactivate
+```
+# License
+Licensed under the [MIT License](LICENSE)
