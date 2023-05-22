@@ -10,4 +10,4 @@ aiohttp == 3.7.4
 google-auth == 1.21.0
 rsa == 4.6.0
 idna == 2.8
-requests == 2.21.0
+requests == 2.31.0
