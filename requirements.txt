@@ -6,7 +6,7 @@ multidict == 6.0.0
 PySimpleGUI~=4.60.1
 cachetools ==4.0.0
 chardet == 3.0.2
-aiohttp == 3.7.4
+aiohttp == 3.8.5
 google-auth == 1.21.0
 rsa == 4.6.0
 idna == 2.8
